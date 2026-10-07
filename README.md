@@ -9,7 +9,7 @@ Me especializo en utilizar **Python, SQL Server y APIs REST** para optimizar pro
 
 ## Tecnologías
 
-- **Lenguajes:** Python, SQL, C# y JavaScript
+- **Lenguajes:** Python, SQL y C# 
 - **Bases de datos:** SQL Server
 - **Integraciones:** APIs REST, JSON y OpenAI API
 - **Frameworks y herramientas:** Flask, .NET, ASP.NET MVC, Postman y Visual Studio
