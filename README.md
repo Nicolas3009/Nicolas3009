@@ -21,8 +21,6 @@ Me especializo en utilizar **Python, SQL Server y APIs REST** para optimizar pro
 - **Lector de cheques con IA:** aplicación de escritorio en Python que utiliza OpenAI API para extraer información de cheques escaneados y exportarla a Excel.
 - **Aplicaciones y procesos internos:** desarrollo de herramientas para mejorar flujos de trabajo, validaciones y tareas repetitivas.
 
-*Próximamente publicaré demostraciones de proyectos propios y ejemplos técnicos sin información confidencial.*
-
 ## Intereses profesionales
 
 Me interesa seguir creciendo en desarrollo backend, integraciones de sistemas, automatización y soluciones basadas en datos.
